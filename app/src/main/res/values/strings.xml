@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+
+    <string name="airPlanInternational">پرواز خارجی</string>
+    <string name="airPlanDomestic">پرواز داخلی</string>
+    <string name="flight">پرواز</string>
+    <string name="hotel">هتل</string>
+    <string name="tour">تور</string>
+    <string name="train">قطار</string>
+    <string name="bus">اتوبوس</string>
+</resources>
